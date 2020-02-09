@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apurv Tiwari</title>
+    <link>https://apurvt.github.io/</link>
+    <description>Recent content on Apurv Tiwari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Feb 2020 23:53:37 +0530</lastBuildDate>
+    
+	<atom:link href="https://apurvt.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Me!</title>
+      <link>https://apurvt.github.io/me/</link>
+      <pubDate>Fri, 07 Feb 2020 23:53:37 +0530</pubDate>
+      
+      <guid>https://apurvt.github.io/me/</guid>
+      <description>Hey, I am Apurv Tiwari.
+I am a cybersecurity engineer, exploring different domains within information security. I am experienced in designing assessments, refreshing cyber policies, and teaching cybersecurity. I love dabbling in new and exciting projects. Reach out to me if you think I can help you.
+Education  MS - Cybersecurity Engineering, University of Southern California : 08.2016 - 05.2018  Courses: Security Systems; Trusted System Design; Mac, iOS and Windows Forensics; Computer Systems Assurance;      BE - Computer Engineering, University of Mumbai : 08.</description>
+    </item>
+    
+    <item>
+      <title>My first Hack The Box root!</title>
+      <link>https://apurvt.github.io/writeups/htb-1/</link>
+      <pubDate>Fri, 07 Feb 2020 23:53:37 +0530</pubDate>
+      
+      <guid>https://apurvt.github.io/writeups/htb-1/</guid>
+      <description>Working on this one! Stay Tuned! </description>
+    </item>
+    
+    <item>
+      <title>CISSP Cleared at 106 questions!</title>
+      <link>https://apurvt.github.io/posts/study-for-cissp/</link>
+      <pubDate>Fri, 07 Feb 2020 15:03:59 +0530</pubDate>
+      
+      <guid>https://apurvt.github.io/posts/study-for-cissp/</guid>
+      <description>I passed the Certified Information Systems Security Professional(CISSP) and became an Associate of (ISC)2 on November 29th, 2019.
+Background:  MS in Cybersecurity; BE - Computer Engineering 1 year of consulting experience; Security+; CEH v9;  Study Approach 5 - 8 hours of studies per day
+Time : 3 months
+ The Journey began&amp;hellip;
+with the Sybex 8th Edition: Official study guide, making my notes along the way. This works best for me, I can remember more if I write down the concepts.</description>
+    </item>
+    
+  </channel>
+</rss>

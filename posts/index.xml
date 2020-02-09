@@ -1,0 +1,79 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Apurv Tiwari</title>
+        <link>https://apurvt.github.io/posts/</link>
+        <description>Recent content in Posts on Apurv Tiwari</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 07 Feb 2020 15:03:59 +0530</lastBuildDate>
+        <atom:link href="https://apurvt.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>CISSP Cleared at 106 questions!</title>
+            <link>https://apurvt.github.io/posts/study-for-cissp/</link>
+            <pubDate>Fri, 07 Feb 2020 15:03:59 +0530</pubDate>
+            
+            <guid>https://apurvt.github.io/posts/study-for-cissp/</guid>
+            <description>I passed the Certified Information Systems Security Professional(CISSP) and became an Associate of (ISC)2 on November 29th, 2019.
+Background:  MS in Cybersecurity; BE - Computer Engineering 1 year of consulting experience; Security+; CEH v9;  Study Approach 5 - 8 hours of studies per day
+Time : 3 months
+ The Journey began&amp;hellip;
+with the Sybex 8th Edition: Official study guide, making my notes along the way. This works best for me, I can remember more if I write down the concepts.</description>
+            <content type="html"><![CDATA[<p>I passed the Certified Information Systems Security Professional(CISSP) and became an Associate of (ISC)2 on November 29th, 2019.</p>
+<h3 id="background">Background:</h3>
+<ul>
+<li>MS in Cybersecurity;</li>
+<li>BE - Computer Engineering</li>
+<li>1 year of consulting experience;</li>
+<li>Security+;</li>
+<li>CEH v9;</li>
+</ul>
+<h3 id="study-approach">Study Approach</h3>
+<p>5 - 8 hours of studies per day</p>
+<p>Time : 3 months</p>
+<hr>
+<p><strong>The Journey began&hellip;</strong></p>
+<p>with the <em>Sybex 8th Edition: Official study guide</em>, making my notes along the way. This works best for me, I can remember more if I write down the concepts.
+I already knew a couple of domains theoretically thanks to my studies. I also joined the <code>r/cissp</code> subreddit to keep myself motivated!</p>
+<p>Thanks to my schedule, I was able to finish the entire 1000 pages in one month. I would meticulously solve the practice tests at the end of every chapter.</p>
+<p>Then I doubled down on the <em>Official Practice Questions</em> (~1300 questions). After finishing the guide, I would give one domain test, every day and passively listen to <a href="https://www.cybrary.it/course/cissp/">Kelly&rsquo;s videos</a>.</p>
+<p>I could have done it in 2 months I think but I lost some steam midway in October.</p>
+<p>I booked my exam for 15th November but had to push it back by 15 days because I wasn&rsquo;t very confident.</p>
+<p>In the next 15 days, I finished the <em>Boson ExSim Max CISSP Exam</em> tests making sure I read every answer even the ones I got right!</p>
+<p>Next up, I read the <a href="https://duckduckgo.com/?q=11th+hour+cissp+by+eric+conrad&amp;t=h_">11th-hour CISSP</a> cover to cover.</p>
+<p>About a day before the test I got the feeling that I have prepared well enough and sat down to play <a href="https://www.warframe.com/landing">Warframe</a>, much to the dismay of my mum!!</p>
+<hr>
+<h3 id="exam-morning">Exam morning:</h3>
+<p>I just passively skimmed over the first 15 chapters of Sybex, looking at stuff I had forgotten and wanted to take a second look at.</p>
+<p>Reached the test center about an hour before the test start. Got the shittiest photo of mine clicked ever (I look as if someone mugged me and forced me to sit for the exam).</p>
+<h3 id="test">Test:</h3>
+<p>I blame Reddit for scaring me, the first couple of questions were so damn straightforward, I went in legit fearing the test. I felt there will be lots of twisted questions and huge paragraphs and convoluted answers but I think I was pretty lucky. Most of the questions were from what I had studied and read up on.</p>
+<p>There were those few that made me wonder if there was an error in the question itself. Thankfully encountered only one of those.</p>
+<h3 id="my-take">My take:</h3>
+<p>I feel that the mindset with which you go in matters as much as the technical knowhow.</p>
+<p>And be prepared to encounter questions that seem to land out of the blue. My test was evenly distributed over all domains, no more of one than the other. Make sure to learn to refresh your mind at the beginning of each question, no use thinking about the previous one.</p>
+<p>A good strategy for this is believing that all the questions that seem weird or especially confusing are from the pool of 25 experimental questions!! Kept me sane!</p>
+<p>An associate finally, now to find a job.</p>
+<p>Another grind coming up!</p>
+<hr>
+<h2 id="resources-used">Resources used:</h2>
+<ol>
+<li><strong>Sybex 8th Edition: Official study guide</strong> <em>Might seem dry, just slog through, will pay off</em></li>
+<li><strong>11th-hour CISSP by Eric Conrad</strong>  <em>Excellent revision, some steps different from the guide</em></li>
+<li><strong>Sybex Official Practice Tests 2nd Edition</strong>  <em>Great questions, answers lack detail; cross-reference with guide</em></li>
+<li><strong>Boson ExSim Max CISSP Exam</strong>  <em>Excellent questions, awesome detailed answers</em></li>
+<li><strong>Kelly H videos Cybrary</strong>  <em>passively heard all videos</em></li>
+<li><a href="https://www.youtube.com/channel/UC_SAXriJ73uF2l8d55G6mEA"><strong>Skillset Videos</strong></a> <em>passively heard most domains</em></li>
+<li><a href="https://www.youtube.com/playlist?list=PLBpnwlO9U5unYmbZp2DJETNOHg8s_yW37"><strong>IT Dojo CISSP Questions</strong></a> <em>Went through most of the questions</em></li>
+<li><a href="https://www.youtube.com/watch?v=-99b1YUFx0A"><strong>Why you will pass CISSP - Kelly Handerhan</strong></a> <em>saw this multiple times</em></li>
+<li><a href="https://www.youtube.com/watch?v=FHuzohDiD50"><strong>How to pass CISSP: Prof. Derek A Smith</strong></a> <em>saw this multiple times</em></li>
+<li><a href="https://www.youtube.com/watch?v=eLYbFtS7G9E"><strong>Larry Greenblatt: CISSP Tips</strong></a> <em>saw multiple times</em></li>
+</ol>
+<h3 id="extra-tests">Extra Tests:</h3>
+<p>•	<a href=""><strong>McGraw Hill Free tests</strong></a> <em>went through few of these</em>
+•	2 free tests on Udemy posted by <code>Richard Anderson</code> on <code>r/cissp</code></p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

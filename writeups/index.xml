@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writeups on Apurv Tiwari</title>
+    <link>https://apurvt.github.io/writeups/</link>
+    <description>Recent content in Writeups on Apurv Tiwari</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Feb 2020 23:53:37 +0530</lastBuildDate>
+    
+	<atom:link href="https://apurvt.github.io/writeups/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first Hack The Box root!</title>
+      <link>https://apurvt.github.io/writeups/htb-1/</link>
+      <pubDate>Fri, 07 Feb 2020 23:53:37 +0530</pubDate>
+      
+      <guid>https://apurvt.github.io/writeups/htb-1/</guid>
+      <description>Working on this one! Stay Tuned! </description>
+    </item>
+    
+  </channel>
+</rss>

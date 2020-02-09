@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://apurvt.github.io/</loc>
+    <lastmod>2020-02-07T23:53:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apurvt.github.io/me/</loc>
+    <lastmod>2020-02-07T23:53:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apurvt.github.io/writeups/htb-1/</loc>
+    <lastmod>2020-02-07T23:53:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apurvt.github.io/writeups/</loc>
+    <lastmod>2020-02-07T23:53:37+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apurvt.github.io/posts/study-for-cissp/</loc>
+    <lastmod>2020-02-07T15:03:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apurvt.github.io/posts/</loc>
+    <lastmod>2020-02-07T15:03:59+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://apurvt.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://apurvt.github.io/tags/</loc>
+  </url>
+  
+</urlset>
